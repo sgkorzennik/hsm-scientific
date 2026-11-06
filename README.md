@@ -1,4 +1,5 @@
+![logo](hsm-scientific.jpg)
 # hsm-scientific
-![logo](hsm-scientific.jpg){width=100} Helioseismology Scientific Research - SGK
+![logo](hsm-scientific-logo.jpg) Helioseismology Scientific Research - SGK
 
 + place holder for stuff, stay tuned.
